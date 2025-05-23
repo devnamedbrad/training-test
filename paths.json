@@ -2,7 +2,8 @@
   "mappings": [
     "/content/brad-test/:/",
     "/content/brad-test/configuration:/.helix/config.json",
-    "/content/brad-test/metadata:/metadata.json"
+    "/content/brad-test/metadata:/metadata.json",
+    "/content/brad-test/redirects:/redirects.json"
   ],
   "includes": [
     "/content/brad-test/"
